@@ -1,4 +1,4 @@
-module simulacion(a, b, c);
+module top(a, b, c);
 	input a, b;
 	output reg c;
 	
